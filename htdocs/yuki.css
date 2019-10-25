@@ -1,0 +1,8 @@
+﻿body{background-color: White;
+     background-image: url("chiba/gif");
+     background-repeat: repeat-x;
+     color: #FFFFFFF; font-weight: bold;}
+h1   {color: Black;}
+h2   {color: #FFFFFF; background-color: Green; text-shadow: 2px 2px #000000;}
+p    {cplor: #00FF00; font: 12pt fantasy; font-style: italic;}
+ul   {color: gold; font-size: large; list-style-type: decimal;}
